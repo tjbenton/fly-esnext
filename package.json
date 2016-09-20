@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"No tests needed\" && exit 0"
+    "test": "fly"
   },
   "author": {
     "name": "Luke Edwards",
