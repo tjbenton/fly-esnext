@@ -13,3 +13,10 @@ branches:
   only:
     - master
     - develop
+
+install:
+  - cd test
+  - npm install
+
+script:
+  - npm test
